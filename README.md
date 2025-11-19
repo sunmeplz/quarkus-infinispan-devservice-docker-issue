@@ -1,0 +1,1 @@
+# quarkus-infinispan-devservice-docker-issue
